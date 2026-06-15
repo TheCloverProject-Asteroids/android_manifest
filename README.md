@@ -26,7 +26,7 @@ Make sure your system has the following installed:
 ---
 
 ## 📂 Setup Repository
-Clone and initialize the PixelOS repository:
+Clone and initialize The Clover Project repository:
 
 ```bash
 mkdir Clover && cd Clover
