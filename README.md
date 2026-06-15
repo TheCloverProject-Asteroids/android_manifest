@@ -1,7 +1,7 @@
 
 # ⚡ The Clover Project For Asteroids
 
-The Clover Project is a custom Android ROM which bring pixel features on non pixel devices.  
+An Android Operating System Based On AOSP.  
 This guide will help you **set up, sync, and build The Clover Project** for **Nothing 3A / PRO**.  
 
 ---
