@@ -6,9 +6,15 @@
             sync-c="true"
             sync-tags="false"
             revision="16-qpr2" />
+
+    <remote name="dt-gl" 
+            fetch="https://gitlab.com/thecloverproject-asteroids/"
+            sync-c="true"
+            sync-tags="false"
+            revision="16-qpr2" />
     
     <remote name="audio"
-            fetch="https://github.com/PixelOS-AOSP"
+            fetch="https://github.com/PixelOS-AOSP/"
             sync-c="true"
             sync-tags="false"
             revision="sixteen-qpr2"/>
@@ -36,7 +42,7 @@
     <!-- Vendor Files -->
     <project name="proprietary_vendor_nothing_asteroids"
              path="vendor/nothing/asteroids"
-             remote="dt" />
+             remote="dt-gl" />
 
     <!-- Nothing / Glyph Apps -->
     <project name="packages_apps_ParanoidGlyph"
