@@ -5,19 +5,19 @@
             fetch="https://github.com/TheCloverProject-Asteroids/"
             sync-c="true"
             sync-tags="false"
-            revision="16-qpr2" />
+            revision="17-qpr0" />
 
     <remote name="dt-gl" 
             fetch="https://gitlab.com/thecloverproject-asteroids/"
             sync-c="true"
             sync-tags="false"
-            revision="16-qpr2" />
+            revision="17-qpr0" />
     
     <remote name="audio"
             fetch="https://github.com/PixelOS-AOSP/"
             sync-c="true"
             sync-tags="false"
-            revision="sixteen-qpr2"/>
+            revision="seventeen"/>
 
     <!-- Device Tree -->
     <project name="android_device_nothing_asteroids"
