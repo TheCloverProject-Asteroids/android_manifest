@@ -5,13 +5,13 @@
             fetch="https://github.com/TheCloverProject-Asteroids/"
             sync-c="true"
             sync-tags="false"
-            revision="17-qpr0" />
+            revision="17" />
 
     <remote name="dt-gl" 
             fetch="https://gitlab.com/thecloverproject-asteroids/"
             sync-c="true"
             sync-tags="false"
-            revision="17-qpr0" />
+            revision="17" />
     
     <remote name="audio"
             fetch="https://github.com/PixelOS-AOSP/"
@@ -56,8 +56,7 @@
     <!-- Hardware Features -->
     <project name="hardware_dolby"
              path="hardware/dolby"
-             remote="dt"
-             revision="dolby"/>
+             remote="dt" />
 
     <project name="android_hardware_nothing" 
              path="hardware/nothing" 
