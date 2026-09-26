@@ -29,8 +29,8 @@ Make sure your system has the following installed:
 Clone and initialize The Clover Project repository:
 
 ```bash
-mkdir Clover && cd Clover
-repo init -u https://github.com/The-Clover-Project/manifest.git -b 16-qpr2 --git-lfs
+mkdir -p Clover && cd Clover
+repo init -u https://github.com/The-Clover-Project/manifest.git -b 17 --git-lfs
 ```
 
 ---
