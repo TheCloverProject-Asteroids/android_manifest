@@ -56,7 +56,7 @@ repo sync
 ### Nothing 3A / PRO (asteroids`)
 ```bash
 . build/envsetup.sh
-lunch clover_asteroids-bp4a-userdebug
+lunch clover_asteroids-cp2a-user
 mka clover
 ```
 
