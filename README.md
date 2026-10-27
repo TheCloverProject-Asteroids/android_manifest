@@ -1,5 +1,5 @@
 
-# ⚡ The Clover Project For Asteroids
+# ⚡ PixelOS For Asteroids
 
 An Android Operating System Based On AOSP.  
 This guide will help you **set up, sync, and build The Clover Project** for **Nothing 3A / PRO**.  
