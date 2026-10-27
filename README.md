@@ -29,8 +29,8 @@ Make sure your system has the following installed:
 Clone and initialize The Clover Project repository:
 
 ```bash
-mkdir -p Clover && cd Clover
-repo init -u https://github.com/The-Clover-Project/manifest.git -b 17 --git-lfs
+mkdir -p PixelOS && cd PixelOS
+repo init -u https://github.com/PixelOS-AOSP/android_manifest.git -b seventeen --git-lfs
 ```
 
 ---
@@ -40,7 +40,7 @@ Add device-specific manifest for Nothing 3A / Pro AKA asteroids:
 
 ```bash
 mkdir -p .repo/local_manifests
-wget https://raw.githubusercontent.com/TheCloverProject-Asteroids/android_manifest/refs/heads/17-qpr0/asteroids.xml      -O .repo/local_manifests/asteroids.xml
+wget https://raw.githubusercontent.com/TheCloverProject-Asteroids/android_manifest/refs/heads/seventeen/asteroids.xml      -O .repo/local_manifests/asteroids.xml
 ```
 
 Sync the repository:
@@ -56,8 +56,8 @@ repo sync
 ### Nothing 3A / PRO (asteroids`)
 ```bash
 . build/envsetup.sh
-lunch clover_asteroids-cp2a-user
-mka clover
+breakfast asteroids user
+m pixelos
 ```
 
 ---
